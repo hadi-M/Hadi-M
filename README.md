@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hello there&nbsp;<img align="center" src="https://raw.githubusercontent.com/hadi-M/Hadi-M/master/resources/Wave.gif" width="50px">
+## I am Hadi&nbsp;<img align="center" src="resources/Sunglasses.gif" width="50px">
+
+I am Data Science student at Lambda School, with a background of Computer Engineering and an MBA.
+
+#### Dont't be a stranger:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hadi-M)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-modares/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat&logoColor=white)](https://www.linkedin.com/in/hadi-modares/)
+
+
+
+
+## Things I Love&nbsp;<img align="center" src="resources/HeartEyes.gif" width="50px">
+- Reading library python libraries' codes and trying to make sense of them.
+- Testing SQL Injection on different websites.
+- Oh did I mention I love reading python libraries' codes?
+- Breathing.
 
 
 <!--
