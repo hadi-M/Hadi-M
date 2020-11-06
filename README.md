@@ -1,7 +1,7 @@
 ## Hello there&nbsp;<img align="center" src="https://raw.githubusercontent.com/hadi-M/Hadi-M/master/resources/Wave.gif" width="50px">
 ## I am Hadi&nbsp;<img align="center" src="resources/Sunglasses.gif" width="50px">
 
-I am Data Science Team Lead at Lambda School, with a background of Computer Engineering and an MBA.
+I am a Data Science Team Lead at Lambda School, with a background of Computer Engineering and MBA.
 
 #### Dont't be a stranger:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hadi-M)
