@@ -4,9 +4,8 @@
 I am a Data Science Team Lead at Lambda School, with a background of Computer Engineering and MBA.
 
 #### Dont't be a stranger:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Hadi-M)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-modares/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat&logoColor=white)](https://www.linkedin.com/in/hadi-modares/)
+
 
 
 
