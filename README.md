@@ -13,7 +13,7 @@ I am a Data Science Team Lead at Lambda School, with a background of Computer En
 ## Things I Love&nbsp;<img align="center" src="resources/HeartEyes.gif" width="50px">
 - Reading library python libraries' codes and trying to make sense of them.
 - Testing SQL Injection on different websites.
-- Oh did I mention I love reading python libraries' codes?
+- Doing leetcode challenges.
 - Breathing.
 
 
